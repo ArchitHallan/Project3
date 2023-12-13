@@ -5,6 +5,8 @@
 ### Use the interactive charts below to explore the dataset, explore salary trends and make informed decisions.
 
 #### This tool is designed to empower you with valuable insights for strategic decisions in global job seeking, hiring, global HR strategies.
+![image](https://github.com/ArchitHallan/Tech-Career-Analytics-and-Insights-Hub/assets/138190914/f64b8312-cfec-48e9-8917-27b0459ea45d)
+
 
 This is a comprehensive exploration tailored for employers, job seekers in the data realm, individuals contemplating joining a bootcamp, and esteemed global HR companies.
 

@@ -1,4 +1,3 @@
-# Project3
 # Tech Career Analytics and Insights Hub
 
 ## Highest Paying Countries, Highest Salary Experience Levels and much more.
@@ -7,13 +6,10 @@
 
 #### This tool is designed to empower you with valuable insights for strategic decisions in global job seeking, hiring, global HR strategies.
 
-![image](https://github.com/YargKlnc/Project3-DataWorld/assets/142269763/c3fd3e07-eedc-4dc3-ad61-feab30eff45b)
 
-**Project 3 - Group 1 by Ismail Omer, Yargi Kilinc, Archit Hallan, Tania Barrera**
+This is a comprehensive exploration tailored for employers, job seekers in the data realm, individuals contemplating joining a bootcamp, and esteemed global HR companies.
 
-We are delighted to present Project 3, a comprehensive exploration tailored for employers, job seekers in the data realm, individuals contemplating joining a bootcamp, and esteemed global HR companies.
-
-Our sophisticated visuals provide profound insights:
+The visuals provide profound insights:
 
 **By Selecting COUNTRY from Dropdown1**
 
@@ -293,7 +289,3 @@ https://apexcharts.com/javascript-chart-demos/
 https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023/data
 
 https://opencagedata.com/api
-
-Some code sections were adapted from the UofT SCS EdX Data Bootcamp class activities:
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
